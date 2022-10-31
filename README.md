@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-BADGES X HACKTOBERFEST-22
+### BADGES X HACKTOBERFEST-22
 [![@malay's Holopin board](https://holopin.me/malay)](https://holopin.io/@malay)
